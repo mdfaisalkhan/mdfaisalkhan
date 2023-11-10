@@ -22,7 +22,8 @@
 
 # 💻 Tech Skill:
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,js,html,css,php,codepen,github,photoshop,figma,premierepro)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,js,html,css,php,codepen,github,photoshop,figma,premierepro,lightroom,shellscript)](https://skillicons.dev)
 
 
 
