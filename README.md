@@ -1,5 +1,7 @@
 <img align="middle" width=100% src="https://camo.githubusercontent.com/cb25086bafb0466a9a206a408040afdf9f83ee320bbf89bc8471ee3f96f54419/68747470733a2f2f7777772e6974666d732e636f6d2f696d672f6769662f6164646f6e2e676966" alt="">
-[![](https://visitcount.itsvg.in/api?id=mdfaisalkhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaisalkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaisalkhan" /> </p>
 
 <h1 align="center">Hi 👋, I'm Md Faisal Khan</h1>
 <h3 align="center">A Passionate Programmer from India</h3>
