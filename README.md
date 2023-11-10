@@ -1,4 +1,6 @@
-<img align="center" src="https://camo.githubusercontent.com/cb25086bafb0466a9a206a408040afdf9f83ee320bbf89bc8471ee3f96f54419/68747470733a2f2f7777772e6974666d732e636f6d2f696d672f6769662f6164646f6e2e676966" alt="banner">
+
+<img align="middle" width=100% height="440" src="https://camo.githubusercontent.com/cb25086bafb0466a9a206a408040afdf9f83ee320bbf89bc8471ee3f96f54419/68747470733a2f2f7777772e6974666d732e636f6d2f696d672f6769662f6164646f6e2e676966" alt="">
+
 
 <h1 align="center">Hi 👋, I'm Md Faisal Khan</h1>
 <h3 align="center">A Passionate Programmer from India</h3>
