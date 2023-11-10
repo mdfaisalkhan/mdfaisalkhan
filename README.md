@@ -1,12 +1,12 @@
 <img align="middle" width=100% src="https://camo.githubusercontent.com/cb25086bafb0466a9a206a408040afdf9f83ee320bbf89bc8471ee3f96f54419/68747470733a2f2f7777772e6974666d732e636f6d2f696d672f6769662f6164646f6e2e676966" alt="">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaisalkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaisalkhan" /> </p>
 
 <h1 align="center">Hi 👋, I'm Md Faisal Khan</h1>
 <h3 align="center">A Passionate Programmer from India</h3>
 <img align="right" width=400 src="https://camo.githubusercontent.com/3b6ac7ffce4ad464299706cc72944505ebddf31912e2d3af4d996858e2915d37/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067" alt="">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaisalkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaisalkhan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mrfaisal_01" target="blank"><img src="https://img.shields.io/twitter/follow/mrfaisal_01?logo=twitter&style=for-the-badge" alt="mrfaisal_01" /></a> </p>
 
