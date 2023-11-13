@@ -33,7 +33,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100072703337634) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_faisal.___) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MrFaisal_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/md-faisal-khan01/) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/mr_faisal01)
 <hr size="3">
-<style>
+
         
             @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500&family=Nunito:wght@600&family=Open+Sans&family=Poppins&family=Roboto:wght@300&display=swap');
          
@@ -65,8 +65,6 @@
         .description{
             padding: 1px 0;
         }
-
-    </style>
 </head>
 <body>
     <div class="container">
