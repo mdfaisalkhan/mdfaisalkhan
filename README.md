@@ -35,6 +35,17 @@
 <hr size="3">
 
 
+<div style="background-color: rgb(0, 46, 51); width: 350px; padding: 5px 25px; font-size: 14px; color: #00f2ff; font-family: 'Open Sans', sans-serif; border-radius: 5px;">
+    <div style="margin-bottom: 10px;">
+        <h2><span><i class="fa-solid fa-book-bookmark" style="color: #00f2ff;"></i></span>Md Faisal Khan</h2>
+        <p style="padding: 1px 0;">Portfolio Website</p>
+    </div>
+    <div style="font-size: 12px;">
+        <span><i class="fa-solid fa-circle" style="color: #ff1414;"></i></span>
+        <span>HTML</span>
+        <span><i class="fa-regular fa-star" style="color: #00f2ff;"></i></span><span>1</span>
+    </div>
+</div>
 
 
 
