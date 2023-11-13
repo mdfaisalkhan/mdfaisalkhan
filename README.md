@@ -35,66 +35,6 @@
 <hr size="3">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://kit.fontawesome.com/3291345f0e.js" crossorigin="anonymous"></script>
-    <title>Document</title>
-    <style>
-        
-            @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500&family=Nunito:wght@600&family=Open+Sans&family=Poppins&family=Roboto:wght@300&display=swap');
-         
-        .container{
-            background-color: rgb(0, 46, 51);
-            width: 350px;
-            padding:5px 25px;
-            font-size: 14px;
-            color: #00f2ff;
-
-            font-family: 'Open Sans', sans-serif;
-            border-radius:5px ;
-        }
-        h2{
-            font-size:16px;
-            
-        }
-        h2 i{
-            padding-right: 10px;
-            font-size: 14px;
-        }
-        .bottom{
-            font-size: 12px;
-            padding-bottom: 10px;
-        }
-        .bottom ,i,span{
-            padding-right: 3px;
-        }
-        .description{
-            padding: 1px 0;
-        }
-
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="inner">
-            <h2><span><i class="fa-solid fa-book-bookmark" style="color: #00f2ff;"></i></span>Md Faisal Khan</h2>
-            <p class="description">Portfolio Website</p>
-            <div class="bottom">
-                <span><i class="fa-solid fa-circle" style="color: #ff1414;"></i></span>
-                <span>HTML</span>
-                <span><i class="fa-regular fa-star" style="color: #00f2ff;"></i></span><span>1</span>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
-
-
-
 
 
 
