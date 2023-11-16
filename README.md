@@ -42,9 +42,10 @@
 
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdfaisalkhan&theme=dark&hide_border=false)
+</div>
 ![](https://github-readme-stats.vercel.app/api?username=mdfaisalkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisalkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <hr size="3">
