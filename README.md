@@ -23,7 +23,9 @@
 - ⚡ Fun fact **I think i'm friendly 🤝 and funny 🤣**
 
 <div align="center">
+  
 # 💻 Tech Skill:
+
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,js,html,css,php,codepen,github,photoshop,figma,)](https://skillicons.dev)<br>
