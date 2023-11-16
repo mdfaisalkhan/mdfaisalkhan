@@ -57,7 +57,8 @@
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=mdfaisalkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisalkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img alt="Most language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisalkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="50%">
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisalkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 <hr size="3">
 ---
