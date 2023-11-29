@@ -18,7 +18,7 @@
 
 - 👯 I’m currently working on a Project [AI Voice Assistant (Python)](https://github.com/mdfaisalkhan)
 
-- 👨‍💻 Follow me on social media [https://www.qrcodechimp.com/page/rwczbdlm2mrd](https://www.qrcodechimp.com/page/rwczbdlm2mrd)
+- 👨‍💻 Follow me on [Social media](https://www.qrcodechimp.com/page/rwczbdlm2mrd)
 
 - 📫 How to reach me **mdfaisal.khan613@gmail.com**
 
