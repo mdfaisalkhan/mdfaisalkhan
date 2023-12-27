@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrfaisal_01" target="blank"><img src="https://img.shields.io/twitter/follow/mrfaisal_01?logo=twitter&style=for-the-badge" alt="mrfaisal_01" /></a> </p>
 
-- 🌱 I’m currently learning **UNIX and Shell programming , CyberSecurity , Machine learning**
+- 🌱 I’m currently learning **UNIX and Shell Programming, CyberSecurity, and Machine learning**
 
 - 👯 I’m currently working on a Project [AI Voice Assistant (Python)](https://github.com/mdfaisalkhan)
 
