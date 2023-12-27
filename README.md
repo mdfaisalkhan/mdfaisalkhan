@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **UNIX and Shell Programming, CyberSecurity, and Machine learning**
 
-- 👯 I’m currently working on a Project [AI Voice Assistant (Python)]([https://github.com/mdfaisalkhan](https://github.com/mdfaisalkhan/AI-Virtual-Assistant))
+- 👯 I’m currently working on a Project [AI Voice Assistant (Python)](https://github.com/mdfaisalkhan/AI-Virtual-Assistant)
 
 - 👨‍💻 Follow me on [Social media](https://www.qrcodechimp.com/page/rwczbdlm2mrd)
 
