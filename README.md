@@ -30,7 +30,7 @@
 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,js,html,css,php,codepen,github,photoshop,figma,)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,js,html,css,php,codepen,github,react,photoshop,figma,)](https://skillicons.dev)<br>
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
