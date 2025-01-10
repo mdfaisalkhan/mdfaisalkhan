@@ -16,15 +16,17 @@
 
 <p align="left"> <a href="https://twitter.com/mrfaisal_01" target="blank"><img src="https://img.shields.io/twitter/follow/mrfaisal_01?logo=twitter&style=for-the-badge" alt="mrfaisal_01" /></a> </p>
 
-- 🌱 I’m currently learning **UNIX and Shell Programming, CyberSecurity, and Machine learning**
+- 🎓 I am a BCA graduate | Open to job opportunities
 
-- 👯 I’m currently working on a Project [AI Voice Assistant (Python)](https://github.com/mdfaisalkhan/AI-Virtual-Assistant)
+- 💻 Developed two projects during college: AI Voice Assistant and Virtual Mouse
+
+- ✏ Passionate about programming, problem-solving, and continuous learning
 
 - 👨‍💻 Follow me on [Social media](https://www.qrcodechimp.com/page/rwczbdlm2mrd)
 
 - 📫 How to reach me **mdfaisal.khan613@gmail.com**
 
-- ⚡ Fun fact **I think i'm friendly 🤝 and funny 🤣**
+- ⚡ Fun fact **I'm friendly 🤝 and funny 🤣**
 
 <div align="center">
   
