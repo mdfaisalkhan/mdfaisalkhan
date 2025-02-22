@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrfaisal_01" target="blank"><img src="https://img.shields.io/twitter/follow/mrfaisal_01?logo=twitter&style=for-the-badge" alt="mrfaisal_01" /></a> </p>
 
-- 🎓 I am a BCA graduate | Open to job opportunities
+- 🎓 BCA graduate | Open to job opportunities
 
 - 💻 Developed two projects during college: AI Voice Assistant and Virtual Mouse
 
